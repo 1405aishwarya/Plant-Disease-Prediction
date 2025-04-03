@@ -1,0 +1,185 @@
+{
+    "Potato___healthy": {
+      "description": "The potato plant is healthy and free from diseases.",
+      "treatment": ["No action required.", "Follow standard care practices like regular watering and fertilization."],
+      "prevention": [
+        "Practice crop rotation to reduce soil-borne diseases.",
+        "Use certified disease-free seed potatoes.",
+        "Monitor plants for pests and diseases."
+      ]
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+      "description": "Yellow leaf curl virus is transmitted by whiteflies and causes stunted growth and yellowing of leaves.",
+      "treatment": [
+        "Remove and destroy infected plants immediately.",
+        "Control whitefly populations using insecticides or biological controls.",
+        "Avoid planting new crops near infected areas."
+      ],
+      "prevention": [
+        "Use reflective mulch to repel whiteflies.",
+        "Plant virus-resistant tomato varieties.",
+        "Monitor and control whitefly populations regularly."
+      ]
+    },
+    "Potato___Late_blight": {
+      "description": "Late blight in potatoes is caused by Phytophthora infestans and can devastate entire crops.",
+      "treatment": [
+        "Destroy severely infected plants to stop the spread.",
+        "Use systemic fungicides like metalaxyl or cymoxanil.",
+        "Harvest tubers early if possible to prevent rot."
+      ],
+      "prevention": [
+        "Plant certified disease-free seed potatoes.",
+        "Avoid overhead watering and ensure good drainage.",
+        "Inspect plants frequently during wet weather."
+      ]
+    },
+    "Potato___Early_blight": {
+      "description": "Early blight in potatoes is caused by the fungus Alternaria solani, leading to dark spots on leaves.",
+      "treatment": [
+        "Remove and destroy infected leaves.",
+        "Apply fungicides containing chlorothalonil or mancozeb.",
+        "Avoid overhead irrigation to reduce moisture on leaves."
+      ],
+      "prevention": [
+        "Plant resistant potato varieties.",
+        "Ensure proper spacing between plants for airflow.",
+        "Practice crop rotation with non-host crops."
+      ]
+    },
+    "Tomato_healthy": {
+      "description": "The tomato plant is healthy and shows no signs of disease.",
+      "treatment": ["No action required.", "Maintain regular watering and fertilization."],
+      "prevention": [
+        "Monitor plants regularly for early signs of disease.",
+        "Ensure proper spacing for airflow.",
+        "Use clean tools and avoid cross-contamination."
+      ]
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+      "description": "Two-spotted spider mites cause stippling and yellowing of leaves due to their feeding.",
+      "treatment": [
+        "Spray plants with water to dislodge mites.",
+        "Apply miticides like abamectin or spiromesifen.",
+        "Introduce natural predators such as ladybugs or predatory mites."
+      ],
+      "prevention": [
+        "Keep plants well-watered to reduce stress.",
+        "Inspect plants regularly for early signs of mite activity.",
+        "Remove weeds around plants that may harbor mites."
+      ]
+    },
+    "Tomato__Target_Spot": {
+      "description": "Target spot is caused by the fungus Corynespora cassiicola, resulting in circular lesions on leaves.",
+      "treatment": [
+        "Remove infected leaves to reduce disease spread.",
+        "Apply fungicides containing azoxystrobin or pyraclostrobin.",
+        "Dispose of infected plant debris properly."
+      ],
+      "prevention": [
+        "Avoid overhead irrigation to reduce leaf moisture.",
+        "Use disease-free seeds and transplants.",
+        "Rotate crops annually."
+      ]
+    },
+    "Tomato_Bacterial_spot": {
+      "description": "Bacterial spot causes dark, water-soaked spots on leaves and fruit, often surrounded by a yellow halo.",
+      "treatment": [
+        "Remove and destroy infected plant parts.",
+        "Apply copper-based bactericides to slow disease progression.",
+        "Avoid overhead irrigation to reduce leaf wetness."
+      ],
+      "prevention": [
+        "Use disease-free seeds and transplants.",
+        "Rotate crops with non-host plants.",
+        "Ensure proper spacing for airflow."
+      ]
+    },
+    "Pepper__bell___healthy": {
+      "description": "The bell pepper plant is healthy and shows no signs of disease.",
+      "treatment": ["No action required.", "Maintain regular watering and fertilization."],
+      "prevention": [
+        "Monitor plants regularly for early signs of disease.",
+        "Ensure proper spacing for airflow.",
+        "Use clean tools and avoid cross-contamination."
+      ]
+    },
+    "Tomato_Late_blight": {
+      "description": "Late blight is a severe fungal disease (Phytophthora infestans) that spreads rapidly in wet conditions.",
+      "treatment": [
+        "Destroy severely infected plants to prevent further spread.",
+        "Use systemic fungicides like mefenoxam or dimethomorph.",
+        "Improve air circulation around plants."
+      ],
+      "prevention": [
+        "Plant resistant varieties.",
+        "Ensure good drainage and avoid waterlogged soil.",
+        "Inspect plants frequently during wet weather."
+      ]
+    },
+    "Tomato__Tomato_mosaic_virus": {
+      "description": "Tomato mosaic virus causes mottled, distorted leaves and stunted growth.",
+      "treatment": [
+        "Remove and destroy infected plants immediately.",
+        "Disinfect tools and hands after handling infected plants.",
+        "Avoid planting in contaminated soil."
+      ],
+      "prevention": [
+        "Use virus-free seeds and transplants.",
+        "Control aphids and other vectors that spread the virus.",
+        "Practice strict hygiene during planting and maintenance."
+      ]
+    },
+    "Tomato_Septoria_leaf_spot": {
+      "description": "Septoria leaf spot is caused by the fungus Septoria lycopersici, leading to small, dark spots on leaves.",
+      "treatment": [
+        "Remove and destroy infected leaves.",
+        "Apply fungicides containing chlorothalonil or mancozeb.",
+        "Water at the base of the plant to avoid wetting leaves."
+      ],
+      "prevention": [
+        "Practice crop rotation with non-host crops.",
+        "Ensure proper spacing for airflow.",
+        "Use mulch to prevent soil-borne spores from splashing onto leaves."
+      ]
+    },
+    "Tomato_Early_blight": {
+      "description": "Early blight is caused by a fungal infection (Alternaria solani) and typically appears as dark spots on leaves.",
+      "treatment": [
+        "Remove infected leaves immediately to prevent spreading.",
+        "Apply fungicides containing chlorothalonil or copper-based products.",
+        "Dispose of infected plant debris properly."
+      ],
+      "prevention": [
+        "Avoid overhead watering to reduce leaf wetness.",
+        "Rotate crops annually to break the disease cycle.",
+        "Plant resistant varieties if available."
+      ]
+    },
+    "Pepper__bell___Bacterial_spot": {
+      "description": "Bacterial spot in peppers is caused by Xanthomonas campestris and leads to water-soaked spots on leaves and fruit.",
+      "treatment": [
+        "Remove and destroy infected plant parts.",
+        "Apply copper-based bactericides to slow disease progression.",
+        "Avoid overhead irrigation to reduce leaf wetness."
+      ],
+      "prevention": [
+        "Use disease-free seeds and transplants.",
+        "Rotate crops with non-host plants.",
+        "Ensure proper spacing for airflow."
+      ]
+    },
+    "Tomato_Leaf_Mold": {
+      "description": "Leaf mold is a fungal disease (Passalora fulva) that causes yellowing and wilting of leaves.",
+      "treatment": [
+        "Prune affected leaves to improve airflow.",
+        "Apply fungicides containing copper or sulfur.",
+        "Dispose of infected plant material carefully."
+      ],
+      "prevention": [
+        "Avoid overhead watering to keep leaves dry.",
+        "Increase spacing between plants for better ventilation.",
+        "Use disease-resistant tomato varieties."
+      ]
+    }
+  }

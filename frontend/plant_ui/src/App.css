@@ -1,0 +1,132 @@
+/* General Reset */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-image: url("/background.jpg"); /* Path to your background image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #f4f8f3; /* Fallback color if the image fails to load */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full viewport height */
+}
+
+.App {
+  text-align: center;
+  max-width: 600px; /* Optional: Limit width for better responsiveness */
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  overflow-y: auto; /* Add scroll if content overflows */
+  max-height: 90vh; /* Limit height to avoid excessive scrolling */
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  font-size: 2rem;
+  color: #2e7d32; /* Dark green color */
+  font-weight: bold;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.upload-button {
+  padding: 10px 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.predict-button {
+  padding: 10px 20px;
+  background-color: #4caf50; /* Green button */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.predict-button:hover {
+  background-color: #388e3c; /* Darker green on hover */
+}
+
+.predict-button:disabled {
+  background-color: #ccc; /* Gray when disabled */
+  cursor: not-allowed;
+}
+
+.image-preview {
+  max-width: 200px;
+  margin-top: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.result-box {
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  text-align: left; /* Align text to the left for better readability */
+  max-height: 300px; /* Limit height of the result box */
+  overflow-y: auto; /* Add scroll if content overflows */
+}
+
+.result-box h2 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  color: #2e7d32;
+}
+
+.result-box p {
+  font-size: 1rem;
+  margin: 10px 0;
+}
+
+.result-box h3 {
+  margin-top: 20px;
+  color: #2e7d32;
+}
+
+.result-box ul {
+  margin-left: 20px;
+  list-style-type: disc;
+}
+
+.WebcamContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+@media (max-width: 600px) {
+  .App {
+    padding: 10px;
+  }
+
+  form {
+    width: 100%;
+  }
+
+  .result-box {
+    width: 100%;
+    margin-top: 20px;
+  }
+}
