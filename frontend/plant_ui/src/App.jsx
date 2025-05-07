@@ -52,7 +52,7 @@ function App() {
     setLoading(true);
 
     try {
-      const response = await axios.post("http:// 52.90.29.115:5000/predict", formData, {
+      const response = await axios.post("http://98.81.191.197:5000/predict", formData, {
         headers: {
           "Content-Type": "multipart/form-data",
         },
