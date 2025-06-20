@@ -4,6 +4,7 @@ The backend uses a MobileNetV2-based model trained through transfer learning to 
 The primary goal is to support early detection of plant diseases, making this tool useful for farmers, agricultural researchers, and agri-tech applications.
 
 **Tools and Libraries:**
+
 TensorFlow & Keras – For building and training the deep learning model
 
 MobileNetV2 – Lightweight CNN architecture used with transfer learning
