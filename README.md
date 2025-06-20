@@ -5,10 +5,15 @@ The primary goal is to support early detection of plant diseases, making this to
 
 **Tools and Libraries:**
 TensorFlow & Keras – For building and training the deep learning model
+
 MobileNetV2 – Lightweight CNN architecture used with transfer learning
+
 Flask – Python backend serving predictions through RESTful APIs
+
 React.js – Frontend framework for user interaction and image upload
+
 Docker – Containerization of the backend for consistent deployment
+
 AWS EC2 – Cloud hosting of the application for scalable access
 
 **Getting Started**
